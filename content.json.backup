@@ -1,0 +1,94 @@
+{
+  "business_name": "SHUBH",
+  "business_tagline": "DIGITAL MARKETING",
+  "phone_display": "88068 84931",
+  "phone_tel": "+918806884931",
+  "email": "hello@shubhdigital.in",
+  "hero": {
+    "eyebrow": "Full-service SEO & Paid Media Agency, based in India",
+    "headline1": "Rocket your ranking.",
+    "headline2": "Own page one.",
+    "subtext": "Shubh Digital Marketing builds the SEO foundation and runs the paid campaigns that bring the right customers to your door — tracked, reported, and built to compound month over month."
+  },
+  "hero_stats": [
+    { "number": "20+", "label": "brands grown" },
+    { "number": "4.9/5", "label": "average client rating" },
+    { "number": "3.2x", "label": "average lead growth" }
+  ],
+  "services_intro": "From ranking on Google to running the ads that sell — SEO, Google Ads, Meta Ads, local & maps visibility, content, websites and reporting, all handled under one roof. Whatever stage your business is at, we build the exact mix of services it needs to bring in more enquiries every month.",
+  "results_stats": [
+    { "number": "20+", "label": "businesses served" },
+    { "number": "3.2x", "label": "avg. increase in leads" },
+    { "number": "4.8x", "label": "avg. return on ad spend" },
+    { "number": "92%", "label": "clients renew past month 3" }
+  ],
+  "pricing": [
+    {
+      "name": "Basic Package",
+      "price": "\u20b910,000",
+      "cycle": "per month",
+      "description": "For local businesses that want to show up when nearby customers search.",
+      "features": [
+        "Local & Google Maps SEO",
+        "On-page SEO for up to 10 pages",
+        "Monthly ranking report"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Growth",
+      "price": "\u20b915,000",
+      "cycle": "per month",
+      "description": "SEO plus a managed Google & Meta Ads engine — our most popular plan.",
+      "features": [
+        "Everything in Basic Package",
+        "Google Ads & Meta Ads management",
+        "Landing page build & testing",
+        "Bi-weekly strategy call"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Scale",
+      "price": "\u20b920,000",
+      "cycle": "per month",
+      "description": "For businesses ready to expand across cities, categories or platforms.",
+      "features": [
+        "Everything in Growth",
+        "Multi-city / multi-location SEO",
+        "Dedicated account manager",
+        "Weekly reporting"
+      ],
+      "featured": false
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "One single Meta Ads campaign for our shoe racks brought in a minimum of 400 leads and took our sales up 8x. We didn't expect numbers like this.",
+      "name": "Sandeep Phadatare",
+      "tag": "Shoe Racks — Meta Ads campaign",
+      "initial": "S",
+      "color": "#4A3899"
+    },
+    {
+      "quote": "Solar panels are a high-consideration purchase, so we needed serious search intent, not just clicks. The Google Ads campaigns brought in genuine, ready-to-buy enquiries every week.",
+      "name": "Suraj PV Solar",
+      "tag": "Solar Panels — Google Ads campaign",
+      "initial": "S",
+      "color": "#FF5A52"
+    },
+    {
+      "quote": "We sell display racks for medical and retail stores — a niche market. The Meta Ads campaigns put us in front of the right shop owners and enquiries have been steady ever since.",
+      "name": "Excellent Display Racks",
+      "tag": "Medical & Retail Store Racks — Meta Ads campaign",
+      "initial": "E",
+      "color": "#FFC93C"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "youtube": ""
+  }
+}
